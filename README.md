@@ -30,4 +30,4 @@ Contributions are welcome! Open issues or pull requests to suggest improvements,
 
 ## License
 
-Specify license terms here if applicable.
+MIT License. See `LICENSE` for details.
